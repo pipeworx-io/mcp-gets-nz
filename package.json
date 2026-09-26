@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gets-nz",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "GETS NZ MCP — New Zealand Government Electronic Tenders Service (keyless).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c957a9e01188c9433d4b21ebf239d415cba5608bf923a60394010af0aa134944",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-6b4fb95d9f25f6e7e3d8f029852349d39a4f52d9d618443affdf76289d661012",
+    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
   }
 }
