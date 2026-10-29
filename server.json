@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/gets-nz",
   "title": "Gets Nz",
   "description": "GETS NZ MCP — New Zealand Government Electronic Tenders Service (keyless).",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/gets-nz",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-gets-nz",
